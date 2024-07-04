@@ -1,4 +1,5 @@
 body{
+    background-image: url(imagenes/call\ of\ duty.jfif);
     width:100%;
     height: 100%;
     background-color: black;
@@ -28,22 +29,42 @@ body{
     width: 50%;
     height: 50%;
 }
-#juegos{
-    
-    margin: 3%;
-
-
+#shooter{
+    text-align: center;
 }
+
 .valorant{
+    color: white;
+    width: 20%;
     padding: 2%;
-    float: left;
+
+  
+}
+.texto{
+    text-align: center;
+   
+    width: 100%;
+
 }
 .call{
+    width: 20%;
+    
     padding: 2%;
 }
-.texto1{
-    float: right;
+ 
+    
+
+.modern{
+    
+    padding: 2%;
+    width: 20%;
+    
 }
-.moder{
-    float: right;
+#shooters{
+    background-color: mediumblue;
+}
+#carrusel{
+    display: block;
+    text-align: center;
+    width: 50%;
 }
