@@ -1,9 +1,8 @@
 body{
-    background-image: url(imagenes/call\ of\ duty.jfif);
+    background-color: black;
     width:100%;
     height: 100%;
-    background-color: black;
-    font-size: larger;
+  
 }
 #botton1{
     font-size: 80%;
@@ -36,35 +35,56 @@ body{
 .valorant{
     color: white;
     width: 20%;
-    padding: 2%;
+    padding: 10%;
 
   
 }
-.texto{
+.texto{ 
+    
     text-align: center;
    
     width: 100%;
 
 }
 .call{
-    width: 20%;
+    width: 860px;
     
-    padding: 2%;
+    padding: 10%;
 }
  
     
 
 .modern{
     
-    padding: 2%;
+    padding: 10%;
     width: 20%;
     
 }
-#shooters{
+#shooters-a{
     background-color: mediumblue;
 }
 #carrusel{
-    display: block;
     text-align: center;
     width: 50%;
+}
+
+
+#carouselExampleInterval{
+    padding: 17%;
+    width: 1900px;
+    text-align: center;
+}
+
+
+.datos-cof{
+    background-color: blue;
+    padding: 3%;
+    width: 100%;
+    text-align: center;
+}
+.codinformacion{
+    background-color: blue;
+}
+.textoss{
+    background-color: white;
 }
